@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!--
-**AljarbouFatma/AljarbouFatma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hi 👋, I'm Fatma Aljarbou</h1>
+
 
 - 🔭 I’m currently working on Information Technology as Web Developer
 - 🌱 I’m currently learning Machine Learning ,Deep Learning
