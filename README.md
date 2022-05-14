@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 
 <h1 align="center">Hi 👋, I'm Fatma Aljarbou</h1>
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on Information Technology as Web Developer
 - 🌱 I’m currently learning Machine Learning ,Deep Learning
 - 💬 Ask me about ...
-- 📫 How to reach me: ... aljarboufatma@gmail.com
+- 📫 How to reach me ...aljarboufatma@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
