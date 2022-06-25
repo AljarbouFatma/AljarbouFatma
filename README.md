@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Fatma Aljarbou</h1>
+<h1 align="center">Hi 👋, I'm Fatma Alqahtani</h1>
 
 
 - 🔭 I’m currently working on Information Technology as Web Developer
