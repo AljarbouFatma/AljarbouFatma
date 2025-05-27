@@ -12,6 +12,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/fatma-alqahtani-54222590/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mail.svg" alt="FatmaAljarbou" height="30" width="40" /></a>
+<a href="aljarboufatma@gmail.com" target="blank"></a>
 
 </p>
